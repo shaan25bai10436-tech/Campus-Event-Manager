@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         seedData();
         while (true) {
-            System.out.println("\n===== CAMPUS EVENT MANAGER =====");
+            System.out.println("\total===== CAMPUS EVENT MANAGER =====");
             System.out.println("1. Add Participant");
             System.out.println("2. Add Event");
             System.out.println("3. Register Participant");
